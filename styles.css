@@ -1,0 +1,45 @@
+/*Début de la page*/
+#lapage{
+    background-color: red;
+    width: 400px;
+    height: auto;
+    margin-left: 665px;
+}
+
+/*La div container*/
+#lapage #container{
+    width: 400px;
+    height: 400px;
+    padding-top: 45px;
+    background-color: gray;
+}
+
+/*div photo*/
+#lapage #container #photo{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    margin-left: 154px;
+    border-radius: 50px;
+    border: 1px solid red;
+    box-shadow: 0px 2px lightgray
+}
+
+#lapage #container #blaz {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#lapage #container #blaz .boldy{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#lapage #container #descript{
+    width: 250px;
+    height: auto;
+    margin-left: 100px; 
+}
